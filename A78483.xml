@@ -1,0 +1,229 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Certaine petitions presented by the Lord Maior, and commonalty of the Citie of London, to the honorable House of Commons, shewing, the great inconveniences of protections, priviledges and priviledged places, with the allegations and reasons tendred by the committees, appointed by Common Councell of the City of London, against the same: being voted by a committee of the lower House.</title>
+            <author>City of London (England). Court of Common Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78483</idno>
+            <idno type="STC">Wing C1723</idno>
+            <idno type="STC">Thomason E197_4</idno>
+            <idno type="STC">ESTC R232017</idno>
+            <idno type="STC">ESTC R6546</idno>
+            <idno type="EEBO-CITATION">99873010</idno>
+            <idno type="PROQUEST">99873010</idno>
+            <idno type="VID">157475</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78483)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157475)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 35:E197[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Certaine petitions presented by the Lord Maior, and commonalty of the Citie of London, to the honorable House of Commons, shewing, the great inconveniences of protections, priviledges and priviledged places, with the allegations and reasons tendred by the committees, appointed by Common Councell of the City of London, against the same: being voted by a committee of the lower House.</title>
+                  <author>City of London (England). Court of Common Council.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for George Badger,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>London (England) --  History --  17th century --  Sources --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="notice">
+            <pb facs="tcp:157475:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 102 -->
+            <p>All ſuch perſons as have juſt cauſe to complaine againſt priviledges and protections (claimed by the Par<g ref="char:EOLhyphen"/>liament, the Nobility, Gentry, King, Queen, or Princes Servants, perſons of quality, or others) are deſired to come to Sadlers Hall in Cheapſide, <hi>London,</hi> upon Wedneſday next, by two of the clocke, being the 21. of this preſent <hi>Iuly</hi> 1641.</p>
+            <p>
+               <hi>And you are likewiſe deſired to bring with you your particular grievances in writing at the ſame time.</hi>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:157475:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 103 -->
+            <p>CERTAINE PETITIONS PRESENTED BY THE LORDMAIOR, <hi>AND</hi> COMMONALTY OF The Citie of LONDON, <hi>To the Honorable Houſe of</hi> Commons, <hi>SHEWING.</hi> The great Inconveniences of <hi>Protections, Privi<g ref="char:EOLhyphen"/>ledges and Priviledged Places,</hi> with the <hi>Allegations</hi> and <hi>Reaſons</hi> tendred by the <hi>Committees,</hi> appointed by <hi>Common Councell</hi> of the <hi>City</hi> of <hi>London,</hi> againſt the ſame: being Voted by a Committee of the Lower HOUSE.</p>
+            <p>LONDON, <hi>Printed for</hi> George Badger, 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:157475:3"/>
+            <!-- PDF PAGE 104 -->
+            <pb n="1" facs="tcp:157475:3"/>
+            <!-- PDF PAGE 104 -->
+            <head>To the Honorable Aſſembly of the Knights, Citizens and Burgeſſes, in the Commons Houſe of PARLIAMENT: The humble Petition of the Lord Maior and Com<g ref="char:EOLhyphen"/>monalty of the City of LONDON.</head>
+            <p>SHEWETH, That your Petitioners, by reaſon of their Trades and dea<g ref="char:EOLhyphen"/>lings, are the greateſt Creditors in the Kingdome; That before, but chiefly ſince the Sitting downe of this Parliament, they finde the multitude of Pri<g ref="char:EOLhyphen"/>viledges and Protections, Claimed by the Parliament, the Nobility, Gentry, his Majeſties Servants, Perſons of Quality, and others, to be ſuch, as for the moſt part take away all benefit of Law from your Petitioners, you may be pleaſed to Con<g ref="char:EOLhyphen"/>ſider, that his Majeſtie, and this Honorable Court are the Fountaines of Juſtice, from whence the proprietie of every Subjects eſtate is derived, And ſeriouſly to take into conſideration, that Parliaments continuing long, or comming often, theſe In<g ref="char:EOLhyphen"/>conveniences, and miſchiefes will follow:
+<list>
+                  <item>
+                     <hi>1.</hi> Propriety will not be maintained, becauſe the Debtor is made master of the Creditors Estate.</item>
+                  <item>
+                     <hi>2.</hi> The want of that liberall Credite, which hath formerly been given to Perſons of Quality.</item>
+                  <item>
+                     <hi>3.</hi> The great decay of Trade, wherein every member of this Kingdome, from the higheſt to the lowest, hath his common Intereſt.</item>
+                  <item>
+                     <hi>4.</hi> And without ſome preſent remedy, there muſt neceſſarily follow, the deſtruction of many Families, their meanes be<g ref="char:EOLhyphen"/>ing detained from them.</item>
+               </list>
+            </p>
+            <p>Your Petitioners therefore humbly deſire, that by the Wiſedome and Juſtice of this Honorable Houſe, ſuch courſe may be taken, That theſe Inconveniences may be removed.</p>
+            <closer>
+               <hi>And they ſhall pray,</hi> &amp;c.</closer>
+         </div>
+         <div type="petition">
+            <pb n="2" facs="tcp:157475:4"/>
+            <!-- PDF PAGE 105 -->
+            <head>To the Right Honorable, the Knights, Citi<g ref="char:EOLhyphen"/>zens and Burgeſſes, in the Commons Houſe of PARLIAMENT, Aſſembled: The humble Petition of thoſe whoſe names are under written, being Citizens and Tradeſ<g ref="char:EOLhyphen"/>men, of the City of LONDON.</head>
+            <p>SHEWING, That we lately making our griefes knowne to the Lord Major, Aldermen, and Common Councell of <hi>London,</hi> they were pleaſed to intercede to this Honorable Houſe, by an humble Petition againſt Privi<g ref="char:EOLhyphen"/>ledges and Protections, whereby as yet we find no fruit or benefit: We therefore hum<g ref="char:EOLhyphen"/>bly deſire, That that Petition, and the reaſons therein given, may be taken into ſerious conſideration: And be pleaſed further to conſider, that wee and our Fami<g ref="char:EOLhyphen"/>lies are not able to ſubſist, neither are we able to beare the great and publike charge, already impoſed, and to be impoſed, our means being detained from us, And theſe which proſecute in a faire and legall way, juſt and honest debts, being therefore Se<g ref="char:EOLhyphen"/>verely puniſhed.</p>
+            <p>Humbly therefore doe your Petitioners deſire this Honorable Houſe, which hath ever maintained the Common Iuſtice of the Kingdome, and ſtill provided remedies againſt great and growing evills, to doe therein ſuch Iustice, as your Wiſedomes ſhall hold agreeable to the Law of God, and Reaſon; And your Petitioners ſhall ever pray for the pro<g ref="char:EOLhyphen"/>speritie of you, and your honorable proceedings,</p>
+         </div>
+         <div type="document">
+            <pb n="3" facs="tcp:157475:4"/>
+            <!-- PDF PAGE 105 -->
+            <head>
+               <hi>REASONS,</hi> Tendered by the Committee, appointed by Common Councell of the Citie of LONDON, againſt Protections, Priviledges, and Priviledged Places for De<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tors, to make good the Propoſitions, and Allega<g ref="char:EOLhyphen"/>tions ſet forth in their Petition, preſented to the Honorable Honſe of COMMONS, againſt <hi>Protections.</hi>
+            </head>
+            <p>
+               <label>ALLEGATION. I.</label>
+               <lb/>
+PRoprietie will not be maintained, becauſe the debtor is made Maſter of the Creditors Eſtate.</p>
+            <p>
+               <label>REASON.</label>
+               <lb/>
+For that the Creditor taking his legall courſe agalnſt the Debtor, in ſtead of receiving ſatisfaction for his debt, is oftentimes both he and the Officers, impri<g ref="char:EOLhyphen"/>ſoned, and the Debtor diſcharged: which doth not not only diſcourage many Credi<g ref="char:EOLhyphen"/>tors in taking courſe for their owne eſtates, but greatly incourage others to run into debt, and the Creditor is alſo hereby diſabled to ſatisfie his ſeverall ingagements.</p>
+            <p>
+               <label>ALLEGATION. II</label>
+               <lb/>
+The want of that liberal Credit, w<hi rend="sup">ch</hi> hath been formerly given to Perſons of quality.</p>
+            <p>
+               <label>REASON.</label>
+               <lb/>
+For that the Creditor cannot receive back the eſtate, by him truſted forth. And we beleeve that this Honorable Houſe is in good meaſure ſenſible hereof.</p>
+            <p>
+               <label>ALLEGATION. III.</label>
+               <lb/>
+The great decay of Trade, wherein every member of this Kingdome, from the higheſt to the loweſt, hath his common intereſt.</p>
+            <p>
+               <label>REASON.</label>
+               <lb/>
+For that the Commodities of Draperie and others, being carried out of this King<g ref="char:EOLhyphen"/>dome, are againe returned into the Kingdome, in Silke, Linnen and other Wares, which by Merchants are truſted forth to Shop-keepers, and by them to ſundry other perſons, &amp; by reaſon of Priviledges, Protections, and Priviledged places, preventing due payments of moneys, the trade both within the Kingdom, &amp; into For raign parts, is much hindered and abated, Merchants and others being by ſuch wayes kept from their eſtates, to pay their debts, and to buy other native Commodities, fit for expor<g ref="char:EOLhyphen"/>tation: and upon examination, it is found, that in the yeere now laſt paſt, there hath not been ſo much moneys laid out in Trade to Forreign parts, by many hundred thouſands of pounds, as hath been in a like equall time formerly.</p>
+            <p>
+               <pb n="4" facs="tcp:157475:5"/>
+               <!-- PDF PAGE 106 -->
+               <label>ALLEGATION. IV.</label>
+               <lb/>
+And without ſome preſent remedie there nuſt neceſſarily follow the deſtructi<g ref="char:EOLhyphen"/>on of many Families, their means being detained from them.</p>
+            <p>
+               <label>REASON.</label>
+               <lb/>
+This the Citie hath ſufficient experience of, there being divers Artificers, who for<g ref="char:EOLhyphen"/>merly lived in good credit and faſhion, and were able to give towards the mainte<g ref="char:EOLhyphen"/>nance of the Poore, who are now by reaſon of Priviledges, Protections, and Privi<g ref="char:EOLhyphen"/>ledged places, keeping their Eſtates from them, fallen into want and penury, and not able to ſupport themſelves; and others of better quality, who did formerly keep di<g ref="char:EOLhyphen"/>vers perſons and Fami<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ies in conſtant imployments, are by reaſon of the ſaid Privi<g ref="char:EOLhyphen"/>ledges, Protections, and Priviledged Places, hindring them of their Eſtates, much fallen, both in their Trades and Credits.</p>
+            <p>That ſome principall Merchants of the Citie of London, writing to Friends into forreign parts, for about One hundred thouſand Pounds, to furniſh the neceſſitie of the State withall, were from them anſwered, that they were afraid to ſend their mo<g ref="char:EOLhyphen"/>neys, becauſe they could not command the ſame back againe at their pleaſures, by reaſon of Priviledges, Priviledged places, and Protections ſo generally granted. And it is a generall complaint of Strangers here, that whereas our Merchants tra<g ref="char:EOLhyphen"/>ding into forreign parts, have libertie and freedome without interruption, to reco<g ref="char:EOLhyphen"/>ver their debts againſt Perſons of greateſt qualitie and Eſtate, Strangers reſiding and trading in this Kingdome, have not the like libertie againſt the meaneſt Subject in it, by reaſon of Priviledges, Protections, and Priviledged places: the like whereof (by conſent of all Merchants, with whom we have conſerred) is not granted in any place whatſoever, neither to Nobles nor others.</p>
+            <p>Beſides the great prejudice and inconvenience to the Common Trade of the King<g ref="char:EOLhyphen"/>dome, and to many particular perſons alledged in the Propoſitions before mention<g ref="char:EOLhyphen"/>ed, it will cleerely appeare by the multitude of Protections, Priviledges, and Privi<g ref="char:EOLhyphen"/>ledged places, whereof uſe is made at this preſent, by debtors, to ſhelter them<g ref="char:EOLhyphen"/>ſelves from payment of their juſt debts, whereof to the number of a thouſand, came to our knowledge within the compaſſe of a few houres, and are particularly collected and diſtinguiſhed in writing, and many more will appeare, if further way may be given to an inquiry after them. And by credible information, the debts owing by ſome of the Nobility of this Kingdome (which the Creditors are inforced to forbeare by reaſon of Priviledge, not reckoning within this eſtimate, any other debts, either of Lords or Commons) doe amount to above a Million, which Summe (as is con<g ref="char:EOLhyphen"/>ceived) if it might be gotten in, and imployed, would drive a greater Trade than is driven by all the Merchants in London put together. By which eſtimate, the maſſe of Money withheld from Creditors by their Debtors, under colour and pretence of Priviledges, Protections, and Priviledged places, againſt Law, and the right and pro<g ref="char:EOLhyphen"/>pertie of the Subject, the miſcarriage of Trade and Creditors, is more evidently repreſented.</p>
+            <p>Moreover, it is humbly conceived, That whereas divers eſtates of Nobilitie and Gentry are clogged with vaſt debts and incumbrances, Young heires, and perſons of Quality would be carefull how they run into ſo deep debts, if theſe wayes to e<g ref="char:EOLhyphen"/>vade the juſt and honeſt payment of them were taken away. And laſtly, we humbly repreſent that (as Parliaments are now ſetled by the wiſedome of the King and State) theſe Priviledges, Protections, and Priviledged places are a greater burthen to the
+<pb n="5" facs="tcp:157475:5"/>
+               <!-- PDF PAGE 106 -->Citie of London, a greater grievance, and of worſe conſequence to the generall Trade of the Kingdome, than the Patents of Sope, Leather, Salt, or that great and unſupportable burthen of Ship-money.</p>
+            <div type="part">
+               <p>WEE are informed, that in Spaine and Portuga'l, all mens eſtates are a<g ref="char:EOLhyphen"/>like ſubject to pay debts, but every Nobleman and Gentleman, his per<g ref="char:EOLhyphen"/>ſon is free, and his bed that he lyeth on, and his horſe allowed him, but all elſe is ſubject to pay debts, and one may have Sentence for a juſt and true debt, a bill or bond, in 27 dayes, and then the Creditor may goe without an Offi<g ref="char:EOLhyphen"/>cer into the Debtors houſe (Yea, though he be a Nobleman) and take the Plate from his Table, and take downe his Hangings, and carry them away, with what elſe he ſindes, and ſell them at an outcry, and take the money in part of his debt, and likewiſe Sequeſter the whole Rents, or Revenews of his Lands, till the debt be fully ſatisfied. Sanctuary cannot defend a Prieſt from payment of his debts, though it guard his perſon; An Engliſhman hath there cauſed his ſlipend or Rent bel<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nging to him, for his maintenance, to be Sequeſtred for the payment of his debts.</p>
+               <p>Duke DALVA, his Plate was taken out of his houſe for payment of his debts.</p>
+               <p>In Florence, Ligorne, Piſa, and the reſt of the Duke of Florence his dominions, No Nobleman or Gentleman is any way Priviledged or Protected more than others, but all men there are ſubject to the Law alike, and for a juſt debt, a bill or bond, hee muſt pay preſently, or goe to Priſon without ſuit of Law; only he is called before the Iudge, and if he ca<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>not denie the debt, he is forthwith ſent to priſon, there to re<g ref="char:EOLhyphen"/>maine untill the debt be paid; no man there was ever Priviledged or Protected, ex<g ref="char:EOLhyphen"/>cept upon ſome great occaſion. The Great Duke hath ſometimes protected the per<g ref="char:EOLhyphen"/>ſons of Strangers for ſome ſhort time, but never his owne Subjects</p>
+               <p>In the Vnited Provinces, Holland, Zeland, and the reſt, all perſons are alike ſub<g ref="char:EOLhyphen"/>ject to the payment of de<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ts, none are Protected or Priviledged, of what Qualitie ſo<g ref="char:EOLhyphen"/>ever; no not the States themſelves: Souldiers only are excepted in their Perſons, ſo long as they are in pay, and imployment; but their Rents, Revenews, their goods, their wages, is lyable, and may be ſequeſtred and taken for payment of their debts.</p>
+               <p>In Flanders, and in Brabant it is the like. In Geneva no men whatſoever are priviledged from payment of their debts, but at all times, all perſons are ſubject to one Common Law: and for a juſt debt, a bill or bond, one may have Sentence in Ge<g ref="char:EOLhyphen"/>neva in a moneth at the furtheſt, both againſt their perſons and eſtates; there it is held a great diſreputation, not to pay their debts, and the Law is, that if any be cho<g ref="char:EOLhyphen"/>ſen Senators, and is ſued for debt, that he doth not pay, he muſt leave his gowne, and cannot be admitted.</p>
+               <p>In Germanie, no Noblemen or Gentlemen are Priviledged, or Protected: it hath been knowne that at Hamborow, or neere that place, a Noblemans goods, or eſtate hath been ſold for payment of his debts; and having not enough to ſatisfie, they ſold his honor likewiſe.</p>
+               <p>SEXTVS QVINTVS the Pope made a law, that no Cardinall ſhould have a voice in the Conclave, at the Election of a Pope, if he owed any money, or were
+<pb n="6" facs="tcp:157475:6"/>
+                  <!-- PDF PAGE 107 -->indebted, which cuſtome is ſtill in uſe. And this SEXTVS QVINTVS, was Pope in Queene ELIZABETHS daies.</p>
+               <p>In Scotland, neither the Kings Service, the Court, not the Parliament can Pro<g ref="char:EOLhyphen"/>tect the Perſon or Eſtate of any man, neither Nobleman or Gentleman, from pay<g ref="char:EOLhyphen"/>ment of his Debts, or the Proſecution of Law againſt him.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
